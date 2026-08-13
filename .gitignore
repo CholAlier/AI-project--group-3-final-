@@ -1,0 +1,54 @@
+# Virtual environment
+venv/
+.venv/
+ven/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Environment variables / secrets
+.env
+.env.local
+*.env
+
+# IDE / editor folders
+.vscode/
+.idea/
+.claude/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit cache only (keep config.toml)
+.streamlit/cache/
+
+# Generated slide chart images
+slide_assets/
+
+# Logs
+*.log
+logs/
+
+# Model/data artifacts (large files)
+*.pkl
+*.joblib
+*.h5
