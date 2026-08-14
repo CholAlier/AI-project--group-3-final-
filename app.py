@@ -402,7 +402,7 @@ LAYOUT = dict(
     margin=dict(l=16, r=16, t=40, b=16),
 )
 
-# The three scored models, in the same order the notebook reports them.
+# The three scored models
 MODEL_NAMES = ["Logistic Regression", "Random Forest", "Combined Prediction"]
 # Blue / green / amber — distinct hues so the three ROC curves stay readable.
 MODEL_COLORS = ["#63b3ed", "#68d391", "#f6ad55"]
