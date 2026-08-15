@@ -1,0 +1,28 @@
+# Phoenix AI — Python Dependencies
+
+# Web application framework
+streamlit==1.41.1
+
+# Data processing
+pandas==2.2.3
+numpy==2.2.1
+
+# Machine learning (Logistic Regression + Random Forest + metrics)
+scikit-learn==1.6.1
+
+# Categorical feature encoding (OneHotEncoder for pipeline)
+category-encoders==2.6.4
+
+# Interactive charts and visualizations
+plotly==5.24.1
+
+# Notebook visualization (for Employee Attrition Rate.ipynb)
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Tests
+pytest==8.3.4
+
+# Report & presentation generation
+fpdf2==2.8.2
+python-pptx==1.0.2
